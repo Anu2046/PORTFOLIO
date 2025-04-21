@@ -21,7 +21,7 @@ nav{
     font-weight: 549;
     font-size: 25px;
     margin-top: 66px;
-    margin-left: 200px;
+    margin-left: 50px;
 }
 
 a{
@@ -179,7 +179,7 @@ ul {
     font-family: Algerian;
     font-size: 50px;
     color: white;
-    margin-left: 100px;
+    margin-left: 50px;
     margin-right: -200px;
     padding: 80px;
     transition: color 1s ease-in-out; 
